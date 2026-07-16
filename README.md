@@ -126,4 +126,4 @@ Bottom line: None of the models: regression, regularized, or classification foun
 
 💼 LinkedIn:https://www.linkedin.com/in/alicia-munyao-3abb27369
 
-🌐 Portfolio:
+🌐 Portfolio:https://github.com/aliciamunyao25-jpg/Data-Science-portfolio.git
