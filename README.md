@@ -28,6 +28,7 @@ I enjoy extracting insights from complex datasets using statistics, programming,
 - Matplotlib
 - Power BI
 - Excel
+- Tableau
 
 ### Statistics
 
